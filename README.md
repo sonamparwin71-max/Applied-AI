@@ -118,3 +118,35 @@ I also studied Python operators and their different types, including Arithmetic,
 
 This day enhanced my understanding of AI concepts and strengthened my knowledge of Python operators and real-world programming applications.
 
+# Day 4 - AI Hallucination, AI Validation & Python Control Flow
+
+On Day 4 of my Summer Internship, I learned about AI Hallucination and AI Validation. I understood how AI models can sometimes generate incorrect or misleading information (hallucinations) and the importance of validating AI-generated content using reliable sources.
+
+In Python, I studied Control Flow Statements, which help programs make decisions and execute instructions based on conditions. I learned about if-else statements and loops, especially the for loop, for controlling the flow of execution in a program.
+
+### Topics Covered
+
+* AI Hallucination
+* AI Validation
+* Python Control Flow
+* If-Else Statements
+* For Loop
+
+### Programs Completed
+
+1. Print Numbers from 1 to 10
+2. Print All Odd Numbers Between 1 and 10
+3. Print Numbers from 10 to 1 in Reverse Order
+4. Password Verification Program
+5. Print a Number Pyramid Using For Loop
+
+### Learning Outcomes
+
+* Understanding AI Hallucination and methods of validation
+* Using conditional statements for decision-making
+* Implementing loops for repetitive tasks
+* Developing logical thinking and problem-solving skills
+
+This day improved my understanding of AI reliability concepts and strengthened my knowledge of Python control flow and looping techniques.
+
+
