@@ -149,4 +149,44 @@ In Python, I studied Control Flow Statements, which help programs make decisions
 
 This day improved my understanding of AI reliability concepts and strengthened my knowledge of Python control flow and looping techniques.
 
+# Day 5 - Prompt Engineering, APIs, Kaggle & Python Programming
+
+On Day 5 of my Summer Internship, I learned the fundamentals of Prompt Engineering and how to create effective prompts for AI models. I studied the RTFS framework and understood different prompting techniques such as Zero-Shot Prompting and Few-Shot Prompting.
+
+I also learned about APIs and their role in connecting applications and exchanging data. After that, I registered on Kaggle, explored datasets, and downloaded the IMDb Dataset for project work. I learned how datasets can be used for data analysis and machine learning projects.
+
+In addition, I practiced Python programming by solving pattern-based and logical problems and uploaded all completed programs to my GitHub repository.
+
+### Topics Covered
+
+* Prompt Engineering
+* RTFS Framework
+* Zero-Shot Prompting
+* Few-Shot Prompting
+* Introduction to APIs
+* Kaggle Platform
+* Downloading and Exploring the IMDb Dataset
+* Introduction to Dataset-Based Projects
+* GitHub Repository Management
+
+### Programs Completed
+
+1. Reverse Pyramid Pattern
+2. Square Star Pattern
+3. Print Prime Numbers Between 1 and 13
+4. Prime Number Checking Program
+
+### Learning Outcomes
+
+* Understanding Prompt Engineering techniques
+* Learning the RTFS framework for effective prompts
+* Gaining knowledge of APIs and their applications
+* Working with datasets from Kaggle
+* Understanding the basics of data-driven projects
+* Improving Python programming and pattern creation skills
+* Uploading and managing code in GitHub repositories
+
+This day enhanced my understanding of AI prompting techniques, APIs, dataset handling, and practical Python programming while improving my GitHub workflow.
+
+
 
